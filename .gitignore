@@ -217,6 +217,6 @@ pip-log.txt
 #############
 ## Intellij
 #############
-.idea/
 .iml
 .svn/
+.idea/
